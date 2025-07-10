@@ -25,7 +25,16 @@ A cross-platform mobile application built using **React Native** with **Expo**, 
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if available)*
+### Home Page:
+<img src="https://res.cloudinary.com/diejm0elz/image/upload/v1752133530/1000039387_shwsur.jpg" alt="Screenshot" width="300"/>
+
+### Search Page:
+<img src="https://res.cloudinary.com/diejm0elz/image/upload/v1752133526/1000039389_hgh2tk.jpg" alt="Screenshot" width="300"/>
+
+### Searched Movie Page:
+<img src="https://res.cloudinary.com/diejm0elz/image/upload/v1752134068/1000039395_nngjrb.jpg" alt="Screenshot" width="300"/>
+
+
 
 ---
 
